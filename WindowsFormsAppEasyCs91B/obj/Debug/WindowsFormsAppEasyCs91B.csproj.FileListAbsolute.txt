@@ -1,0 +1,9 @@
+C:\Users\Enin\RiderProjects\WindowsFormsAppEasyCs91B\WindowsFormsAppEasyCs91B\obj\Debug\WindowsFormsAppEasyCs91B.csproj.AssemblyReference.cache
+C:\Users\Enin\RiderProjects\WindowsFormsAppEasyCs91B\WindowsFormsAppEasyCs91B\obj\Debug\WindowsFormsAppEasyCs91B.Properties.Resources.resources
+C:\Users\Enin\RiderProjects\WindowsFormsAppEasyCs91B\WindowsFormsAppEasyCs91B\obj\Debug\WindowsFormsAppEasyCs91B.csproj.GenerateResource.cache
+C:\Users\Enin\RiderProjects\WindowsFormsAppEasyCs91B\WindowsFormsAppEasyCs91B\obj\Debug\WindowsFormsAppEasyCs91B.csproj.CoreCompileInputs.cache
+C:\Users\Enin\RiderProjects\WindowsFormsAppEasyCs91B\WindowsFormsAppEasyCs91B\bin\Debug\WindowsFormsAppEasyCs91B.exe.config
+C:\Users\Enin\RiderProjects\WindowsFormsAppEasyCs91B\WindowsFormsAppEasyCs91B\bin\Debug\WindowsFormsAppEasyCs91B.exe
+C:\Users\Enin\RiderProjects\WindowsFormsAppEasyCs91B\WindowsFormsAppEasyCs91B\bin\Debug\WindowsFormsAppEasyCs91B.pdb
+C:\Users\Enin\RiderProjects\WindowsFormsAppEasyCs91B\WindowsFormsAppEasyCs91B\obj\Debug\WindowsFormsAppEasyCs91B.exe
+C:\Users\Enin\RiderProjects\WindowsFormsAppEasyCs91B\WindowsFormsAppEasyCs91B\obj\Debug\WindowsFormsAppEasyCs91B.pdb
