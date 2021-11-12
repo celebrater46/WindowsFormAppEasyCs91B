@@ -42,10 +42,10 @@ namespace WindowsFormsAppEasyCs91B
             g.FillPie(new SolidBrush(Color.DarkOrchid), 0, 0, w, h, -90, (float)0.6 * elapsed);
             g.FillEllipse(new SolidBrush(Color.Bisque), (int)w/4, (int)h/4, (int)w/2, (int)h/2);
 
-            // string time = elapsed / 10 + ":" + "0" + elapsed % 10;
-            int hour = elapsed / 10;
-            int minute = elapsed % 10;
-            string time = string.Format("{0} : 0{1}", hour, minute);
+            string time = elapsed / 10 + ":" + "0" + elapsed % 10;
+            // int hour = elapsed / 10;
+            // int minute = elapsed % 10;
+            // string time = string.Format("{0} : 0{1}", hour, minute);
 
             Font f = new Font("Courier", 20);
             SizeF ts = g.MeasureString(time, f);
@@ -63,8 +63,9 @@ namespace WindowsFormsAppEasyCs91B
             if (elapsed > 600) // After 1 minute
             {
                 elapsed = 0;
-                this.Invalidate();
+                // this.Invalidate();
             }
+            this.Invalidate();
         }
     }
 }
